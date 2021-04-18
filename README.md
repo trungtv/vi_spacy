@@ -1,3 +1,6 @@
+# Spacy 3.x
+Due to space limitation, our new repository is here: https://gitlab.com/trungtv/vi_spacy
+
 # vi_spacy (UPDATED, WORK for SPACY Verson > 2.1!!!)
 vi_spacy contains Vietnamese models for spaCy. We trained word2vec on a combination of wikipedia and news corpus, vector size = 128. Pos tagger and DEP parser are trained on UD Vietnamese (http://universaldependencies.org/treebanks/vi/index.html)
 ## Installation 
